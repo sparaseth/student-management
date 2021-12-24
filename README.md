@@ -17,6 +17,6 @@
 	From the same page you will see the student list.Serching student and deletion of the 
 	student is also available in the same page.
 
-
 # How to run  	
+  Import the database schema into your mysql database
   Import rhe project on eclise workspance and run on apache tomcat
