@@ -1,0 +1,77 @@
+Name of the Project
+----------------------- 
+	College Management Using JSP and HTML Code.
+	
+Aim of the Project
+---------------------
+	Insertion,searching and deletion the student record from the database
+	using JSP and HTML.
+					
+Neccesity of this Project
+----------------------------
+	By this project we can store the students data in the database and 
+	and we can see the student data who are the stored in the database
+	in same page.We can search and also delete the students record. 
+
+Main HTML file
+------------------
+	Home.html is the main html file in this Project.
+
+Main JSP file
+----------------
+	validate.jsp is the main JSP file in this project.
+
+Data Connection of the Source file
+----------------------------------------
+	skp
+
+Database of the Project
+----------------------------
+	SUJIT_DATABASE
+
+Table Name of the Databse
+--------------------------------
+	STUDENT
+
+How it is Work?
+-------------------
+	When you open Home.html file this wants from you login name and Password if this are false 
+	Errorpage will be open else Administrator.html file will be open.Given username=HP & Password=invent.
+	When you submit Administrator.html page all data will stored into the database.
+	From the same page you will see the student list.Serching student and deletion of the 
+	student is also available in the same page.
+
+Project Related file
+----------------------
+	1.College.html
+	2.Delete.html
+	3.Delete.jsp
+	4.ErrorPage.jsp
+	5.ErrorPage1.jsp
+	6.ErrorPage2.jsp
+	7.Find.jsp
+	8.Home.h1.gif
+	9.login.jsp
+              10.Search.html
+              11.Student.jsp
+              12.validate.jsp
+
+Deploying Procedure  	
+-----------------------
+	Open DOS command and type j2ee -verbose, you see that j2ee server is being started.When j2ee server being 
+	completed  again open DOS command and type Deploytool.Now deploy Window will apear in the screen.In 
+	deploy Window choose File menu and Select New Application.Now a new Window appears in the screen and click
+	on browse to select Where your project Folder is located.Make ear file and then make war file.
+			      		(Procedure is given here very briefly) 
+
+
+
+
+
+
+
+
+
+
+
+
