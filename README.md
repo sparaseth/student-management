@@ -18,5 +18,5 @@
 	student is also available in the same page.
 
 # How to run  	
-  Import the database schema into your mysql database
+  Import the database schema into your mysql database <br/>
   Import rhe project on eclise workspance and run on apache tomcat
